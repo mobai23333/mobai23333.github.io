@@ -1,4 +1,4 @@
-const mobai = 1e6;
+const mobai = 100;
 
 import { summary } from './functions/summary.js';
 import { getRate, getGrade } from './functions/addition.js';
